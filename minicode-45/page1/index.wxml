@@ -1,0 +1,3 @@
+<view class="scroll-item" wx:for="{{domList}}" wx:key="*this" data-index="{{index}}">
+  {{index}}
+</view>

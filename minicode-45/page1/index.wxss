@@ -1,0 +1,18 @@
+
+.scroll-item{
+  width: 350rpx;
+  height: 1200rpx;
+  float: left;
+  background-color: #1AAD19;
+  margin: 10rpx;
+}
+
+.cc{
+  position: absolute;
+  left:0;
+  top: 0;
+  width: 90%;
+  height: 90%;
+  z-index: 11;
+  background-color: red;
+}
