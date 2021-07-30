@@ -1,3 +1,6 @@
 {
-  "navigationBarTitleText": "SelectorQuery 方式（页面）"
+  "navigationBarTitleText": "swiper的曝光demo",
+  "usingComponents":{
+    "my-swiper":"./comp/my-swiper"
+  }
 }
