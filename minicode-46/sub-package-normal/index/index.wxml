@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+    <view>
+        普通分包
+    </view>
+   
+</view>

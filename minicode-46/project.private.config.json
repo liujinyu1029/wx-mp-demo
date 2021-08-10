@@ -1,0 +1,30 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "sub-package-normal/index/index",
+          "pathName": "sub-package-normal/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "sub-package-alone/index/index",
+          "pathName": "sub-package-alone/index/index",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

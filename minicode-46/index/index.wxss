@@ -1,0 +1,7 @@
+.container {
+    margin: 0;
+    padding: 0;
+}
+.dynaimc-comp {
+    width: 100%;
+}

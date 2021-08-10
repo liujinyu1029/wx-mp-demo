@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+    <view>
+        主包首页
+    </view>
+   
+</view>
