@@ -23,6 +23,12 @@
           "pathName": "sub-package-alone/index/index",
           "query": "",
           "scene": null
+        },
+        {
+          "name": "pages/lend/applyLend",
+          "pathName": "pages/lend/applyLend",
+          "query": "",
+          "scene": null
         }
       ]
     }

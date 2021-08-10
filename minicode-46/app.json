@@ -8,6 +8,11 @@
   },
   "subPackages": [
     {
+      "root": "pages",
+      "pages": ["lend/applyLend"],
+      "independent": true
+    },
+    {
       "root": "sub-package-alone",
       "pages": ["index/index"],
       "independent": true
