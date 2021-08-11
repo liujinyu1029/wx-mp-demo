@@ -24,6 +24,6 @@ Page({
       confirmColor: '#3CC51F'
     });
     console.log('getLaunchOptionsSync:', opt);
-    debugger;
+    // debugger;
   }
 });

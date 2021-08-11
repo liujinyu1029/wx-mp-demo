@@ -3,5 +3,5 @@
     <view>
         主包首页
     </view>
-   
+   <navigator url="/sub-package-normal/index/index">sub-package-normal/index/index</navigator>
 </view>

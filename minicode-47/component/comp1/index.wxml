@@ -1,0 +1,4 @@
+<view>
+  comp1: my age {{age}}
+</view>
+  

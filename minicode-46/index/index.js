@@ -25,6 +25,17 @@ Page({
     });
 
     console.log('getLaunchOptionsSync:', opt);
-    debugger;
+    // debugger;
+  },
+  onHide(){
+    wx.showModal({
+      title: 'main page onHide',
+      content: '',
+      showCancel: true,
+      cancelText: '取消',
+      cancelColor: '#000000',
+      confirmText: '确定',
+      confirmColor: '#3CC51F'
+    });
   }
 });

@@ -13,7 +13,7 @@ App({
     });
 
     console.log('app getLaunchOptionsSync:', opt);
-    debugger;
+    // debugger;
   },
   onShow() {},
   onHide() {}

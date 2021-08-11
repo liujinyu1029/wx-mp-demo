@@ -25,6 +25,6 @@ Page({
     });
 
     console.log('getLaunchOptionsSync:', opt);
-    debugger;
+    // debugger;
   }
 });
