@@ -1,0 +1,11 @@
+{
+  "pages": ["webView/index", "page/index"],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "subPackages": [],
+  "sitemapLocation": "sitemap.json"
+}

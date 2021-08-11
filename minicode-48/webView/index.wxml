@@ -1,0 +1,2 @@
+<web-view src="{{viewPath}}" bindmessage=""></web-view>
+  
