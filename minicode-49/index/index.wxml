@@ -1,0 +1,43 @@
+<view class="container">
+  <view class="userinfo">
+    <block>
+      头像：<image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      昵称：<text class="userinfo-nickname">{{userInfo.nickName}}</text>
+      <view>
+        ======================
+      </view>
+    </block>
+
+    <block>
+      <button style="margin-top:50rpx" bindtap="getUserProfile"> 获取头像昵称[wx.getUserProfile] </button>
+      <button 
+        style="margin-top:50rpx" 
+        open-type="getUserInfo" 
+        bindgetuserinfo="getUserInfo"
+      > 
+        获取头像昵称[button.getUserInfo] 
+      </button>
+      <button 
+        style="margin-top:50rpx" 
+        open-type="getPhoneNumber"
+        bindgetphonenumber="getUserPhone"
+        bindtap="getNumberTap"
+      > 
+        获取用户手机号[button.getPhoneNumber]
+      </button>
+      <button 
+        style="margin-top:50rpx" 
+        bindtap="wxLogin"
+      > 
+        wx.login
+      </button>
+      <button 
+        style="margin-top:50rpx" 
+        bindtap="checkSession"
+      > 
+        wx.checkSession
+      </button>
+    </block>
+    
+  </view>
+</view>

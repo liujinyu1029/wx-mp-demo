@@ -1,4 +1,6 @@
 {
-  "navigationBarTitleText": "page",
-  "usingComponents": {}
+  "navigationBarTitleText": "分享demo",
+  "usingComponents": {
+    
+  }
 }

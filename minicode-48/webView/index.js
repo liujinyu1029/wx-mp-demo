@@ -1,6 +1,6 @@
 Page({
   data: {
-    viewPath: 'https://page.meituan.net/html/1602575894622_d89903/index.html'
+    viewPath: 'https://page.meituan.net/html/1628478749783_0e1eec/index.html'
   },
   onShareAppMessage(shareOpt) {
     wx.showModal({
